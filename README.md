@@ -1,1 +1,0 @@
-# printmaking_3d_assets_test
